@@ -62,8 +62,10 @@
     <description>This is the custom module (snake) for running on a Digital Experience Manager server.</description>
 
     <scm>
-        <connection>scm:dummy:uri</connection>
-        <developerConnection>scm:dummy:uri</developerConnection>
+        <connection>scm:git:git@github.com:Jahia/snake.git</connection>
+        <developerConnection>scm:git:git@github.com:Jahia/snake.git</developerConnection>
+	<url>scm:git:git@github.com:Jahia/snake.git</url>
+	<tag>HEAD</tag>
     </scm>
 
     <repositories>
